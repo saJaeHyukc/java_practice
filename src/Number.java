@@ -1,4 +1,5 @@
 public class Number {
+
     public static void main(String[] args){
         // Operator (http://bit.ly/2NkH7J4)
         System.out.println(6 + 2); // 8

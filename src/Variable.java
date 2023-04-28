@@ -1,4 +1,5 @@
 public class Variable {
+
     public static void main(String[] args){
 
         // 자바는 데이터타입을 명확하게 표시해줘야함

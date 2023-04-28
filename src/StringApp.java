@@ -1,4 +1,5 @@
 public class StringApp {
+
     public static void main(String[] args){
         // Character vs String
         System.out.println("Hello World"); // String "는 문자열을 표현

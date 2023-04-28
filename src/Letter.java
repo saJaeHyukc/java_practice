@@ -1,4 +1,5 @@
 public class Letter {
+
     public static void main (String[] args){
         // 다른 사람이 파악할 수 있도록 코드 작성 ******
         // * 변수의 효용: 어떤 값을 넣어야 하는 부분에 '변수'를 사용함으로써,

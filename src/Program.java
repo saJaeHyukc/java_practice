@@ -21,7 +21,7 @@ public class Program {
         hallLamp.on();
 
         Lighting floorLamp = new Lighting(id+" // Floor Lamp");
-        hallLamp.on();
+        floorLamp.on();
 
     }
 }

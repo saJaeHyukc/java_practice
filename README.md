@@ -20,7 +20,7 @@
 - 자료형
   - [숫자](./jump%20to%20java/src/Number.java)
   - [불](./jump%20to%20java/src/Boolean.java)
-  - [문자]()
+  - [문자](./jump%20to%20java/src/Char.java)
   - [문자열]()
   - [StringBuffer]()
   - [배열]()

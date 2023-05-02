@@ -1,8 +1,8 @@
-package org.opentutorials.iot;
+package opentutorials.org.iot;
 
 import java.util.Random;
 
-public class Security implements OnOff{
+public class Security implements OnOff {
 	String _id;
 	public Security(String id) {
 		this._id = id;

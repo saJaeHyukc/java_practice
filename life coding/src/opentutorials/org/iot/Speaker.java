@@ -1,6 +1,4 @@
-package org.opentutorials.iot;
-
-import java.util.Random;
+package opentutorials.org.iot;
 
 public class Speaker {
 	String _id;

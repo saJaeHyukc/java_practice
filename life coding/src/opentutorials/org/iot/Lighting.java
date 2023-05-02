@@ -1,8 +1,8 @@
-package org.opentutorials.iot;
+package opentutorials.org.iot;
 
 import java.util.Random;
 
-public class Lighting implements OnOff{
+public class Lighting implements OnOff {
 	String _id;
 	public Lighting(String id){
 		this._id = id;

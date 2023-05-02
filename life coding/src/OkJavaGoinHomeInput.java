@@ -1,11 +1,9 @@
-import javax.swing.JOptionPane;
+import opentutorials.org.iot.DimmingLights;
+import opentutorials.org.iot.Elevator;
+import opentutorials.org.iot.Lighting;
+import opentutorials.org.iot.Security;
 
-import org.opentutorials.iot.DimmingLights;
-import org.opentutorials.iot.Elevator;
-import org.opentutorials.iot.Lighting;
-import org.opentutorials.iot.Security;
-
-public class InputProgram {
+public class OkJavaGoinHomeInput {
 
     // paramter, 매개변수 (args)
     // String[] 문자열로만 이루어진 배열

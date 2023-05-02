@@ -1,4 +1,4 @@
-package org.opentutorials.iot;
+package opentutorials.org.iot;
 
 public class DimmingLights extends Lighting {
 

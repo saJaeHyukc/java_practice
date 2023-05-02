@@ -1,9 +1,8 @@
-import org.opentutorials.iot.Elevator;
-import org.opentutorials.iot.Lighting;
-import org.opentutorials.iot.Security;
+import opentutorials.org.iot.Elevator;
+import opentutorials.org.iot.Lighting;
+import opentutorials.org.iot.Security;
 
-public class Program {
-
+public class OkJavaGoinHome {
     public static void main(String[] args){
 
         String id = "JAVA APT 507";
@@ -24,4 +23,5 @@ public class Program {
         floorLamp.on();
 
     }
+
 }

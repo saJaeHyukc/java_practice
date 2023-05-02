@@ -1,6 +1,6 @@
-package org.opentutorials.iot;
+package opentutorials.org.iot;
 
-import java.awt.Color;
+import java.awt.*;
 
 public class ColorDimmingLights extends DimmingLights {
 

@@ -18,8 +18,8 @@
   - [명명 규칙](./jump%20to%20java/src/NamingConvention.java)
   - [주석](./jump%20to%20java/src/Comment.java)
 - 자료형
-  - [숫자]()
-  - [불]()
+  - [숫자](./jump%20to%20java/src/Number.java)
+  - [불](./jump%20to%20java/src/Boolean.java)
   - [문자]()
   - [문자열]()
   - [StringBuffer]()
